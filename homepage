@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Homepage</title>
+</head>
+
+<body>
+
+<h1>Homepage</h1>
+
+<p>Welcome to my corner of the internet.</p>
+
+<hr>
+
+<h2>About</h2>
+<p>Something about me.</p>
+
+<h2>Research</h2>
+<p>Things I am working on.</p>
+
+<h2>Notes</h2>
+<p>Things I have been thinking about.</p>
+
+<h2>Links</h2>
+<ul>
+    <li><a href="https://github.com/">GitHub</a></li>
+</ul>
+
+<hr>
+
+<p>Last updated: August 2026</p>
+
+</body>
+</html>
